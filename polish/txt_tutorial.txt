@@ -1,23 +1,23 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+Witaj w Ymir! Wygląda na to, że uruchamiasz tę grę po raz pierwszy.
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. However if you already know the game, you can choose to disable all tutorials right now.
+To złożona gra: jeśli jeszcze jej nie znasz, zdecydowanie zalecamy rozpoczęcie od ukończenia samouczka dla początkujących w grze solo, aby nauczyć się podstaw. Jeśli jednak znasz już grę, możesz od razu wyłączyć wszystkie samouczki.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+Tutaj konfigurujesz i rozpoczynasz nową grę. Dostępne są dwa główne tryby gry: ciągły i w czasie rzeczywistym. Jeśli grasz sam lub z kilkoma znajomymi, najlepiej wybrać tryb „w czasie rzeczywistym”.
 
 #tuto_lnchgame_1
-You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+Rozpoczynasz swoją pierwszą grę! To gra typu klient-serwer: nawet jeśli grasz solo, rozpoczęcie nowej gry automatycznie uruchomi oddzielny serwer i automatycznie Cię z nim połączy. Aby inni mogli dołączyć do gry, MUSISZ upewnić się, że poprawnie przekierowałeś port używany przez Twój serwer (domyślnie 14804). Jeśli automatyczne uruchomienie serwera się nie powiedzie, będziesz musiał ręcznie uruchomić serwer z folderu gry za pomocą pliku server.bat, a następnie połączyć się z nim za pomocą polecenia „dołącz do gry”..
 
 #tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+Tutaj tworzysz swoją postać. Możesz ją zaprojektować i nadać jej imię,Ponadto możaż nadać nazwę frakcji i ustawićherb swojego rządu.
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+Musisz dokonać wyboru spośród listy różnych typów początkowych. Domyślnym typem nowej gry jest „plemię pierwotne”.
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+W trybie wieloosobowym możesz również określić nazwę postaci znajomego, aby odrodzić się jak najbliżej niego, ale aby to zrobić, potrzebujesz również jego "Kodu zaproszenia".
 
 #tuto_char_4
 Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
@@ -29,10 +29,10 @@ You have not completed the starting tutorial yet: It is strongly advised to do s
 Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
 
 #tuto_join_1
-This is where you join existing games. 
+Tutaj można dołączyć do istniejących gier. 
 
 #tuto_join_2
-If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+Jeśli chcesz ponownie dołączyć do własnej gry lokalnej, przejdź do "Direct IP" i połącz się z portem "localhost" 14804. 
 
 #tuto_join_3
 If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
@@ -41,22 +41,22 @@ If you want to join multiplayer games you have the choice between persistent (24
 You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
 
 #tuto_0_1
-Greetings newpig! I am Sagacious Pig your tutorial assistant. 
+Pozdrowienia newpig! Jestem Sagacious Pig, twój asystent ds. samouczków.
 
 #tuto_0_2
-I'm here to guide you through the first steps of the game and explain how things work.
+Jestem tutaj, aby poprowadzić cię przez pierwsze kroki w grze i wyjaśnić, jak wszystko działa.
 
 #tuto_0_c1
-Tell me more!--1
+Powiedz mi więcej!--1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+Chciałem zrobić samouczek, ale teraz, gdy widzę twoją brzydką twarz, wolę go pominąć. --82
 
 #tuto_1_1
-You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
+Znajdujesz się obecnie na mapie świata. Każdy kafelek to "terytorium", które można eksplorować i kolonizować.
 
 #tuto_1_2
-At the start, most of the map is unexplored except the few territories around your tribe.
+Na początku większość mapy jest niezbadana, z wyjątkiem kilku terytoriów wokół twojego plemienia.
 
 #tuto_1_c1
 Very well... so what now ?--2--1
@@ -1193,22 +1193,22 @@ It will be urgent that you start by making food (and then other resources such a
 Ok!--408
 
 #tuto_407_c2
-Wait... How can I do that again?--404
+Poczekaj... Jak mogę to zrobić jeszcze raz?--404
 
 #tuto_408_1
-Now, thanks to barter, your workers will now be much more efficient and your society more stable with less conflict allowing you to manage a bigger community with less risks of instability. 
+Dzięki systemowi barterowemu Twoi pracownicy będą teraz o wiele wydajniejsi, a społeczeństwo bardziej stabilne i mniej narażona na konflikty. Dzięki temu będziesz mógł zarządzać większą społecznością, przy mniejszym ryzyku niestabilności.
 
 #tuto_408_2
 You'll also get to control if and how much you want to distribute each produced resource depending on your needs, which you can't do in a gift economy!
 
 #tuto_408_c1
-Good to know.--409
+Dobrze wiedzieć.--409
 
 #tuto_409_1
 Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palissades, or armies. These services require payments as well once you're not in a gift economy!
 
 #tuto_409_c1
-How do I fund all that?--410
+Jak mam to wszystko sfinansować?--410
 
 #tuto_410_1
 In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
