@@ -401,7 +401,7 @@ Zagrody dla słonia umożliwiają wypas pojedynczych zwierząt sporych rozmiaró
 Garncarz
 
 #txt_potter_dscr
-Garncarze wytwarzają naczynia z gliny. Naczynia mogą być dystrybuowane wśród ludności, by zaspokoić jej zapotrzebowanie na wyposażenie.
+Garncarze wytwarzają naczynia z gliny. Naczynia mogą być dostarczane populacji, by zaspokoić jej zapotrzebowanie na wyposażenie.
 
 #txt_stonecut_n
 Obóz kamieniarzy
@@ -431,7 +431,7 @@ W garbarni przetwarza się skórę na skórzane odzienia. Skórzane odzienia mog
 Wytwórca narzędzi
 
 #txt_toolmk_dscr
-Warsztat, w którym wytwarza się różnego rodzaju narzędzia. Narzędzia są szeroko wykorzystywane, w szczególnośći na budowach.
+Warsztat, w którym wytwarza się różnego rodzaju narzędzia. Narzędzia są wykorzystywane, w szczególności na budowach.
 
 #txt_items_n
 Przedmioty
@@ -455,7 +455,7 @@ Magazyny pozwalają na składowanie wszystkich rodzajów podstawowych materiał�
 Wytwórca uzbrojenia
 
 #txt_weapmk_dscr
-Warsztat, w którym wytwarza się szeroki zakres broni i pancerzy. Wykorzystuje się je, by wytrenować i wyposażyć jednostki.
+Warsztat, w którym wytwarza się broń i pancerz. Wykorzystuje się je, by wytrenować i wyposażyć jednostki.
 
 #txt_weaver_n
 Tkalnia
@@ -716,7 +716,7 @@ Rada przywódców plemiennych, która zapewnia wczesną formę prawa. Usiłuje o
 Magistrat
 
 #txt_magistr_dscr
-Sędzia, który dzięki swoim sprawiedliwym wyrokom obniża poziom skonfliktowania w społeczności.
+Sędzia, który dzięki sądownictwu obniża poziom konfliktów w społeczności.
 
 #txt_paper_n
 Papiernia
@@ -728,7 +728,7 @@ Tutaj wytwarzany jest papier.
 Rumiarnia
 
 #txt_rum_dscr
-Destylarnia, w której z trzciny cukrowej wytwarza się rum.
+Destylarnia, tu z trzciny cukrowej wytwarza się rum.
 
 #txt_trmarket_n
 Rynek
